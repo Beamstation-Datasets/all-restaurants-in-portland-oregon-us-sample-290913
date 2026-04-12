@@ -1,0 +1,12 @@
+{
+  "export_job_id": "969c62f4-e6a8-4490-ad61-2a207d0e19bc",
+  "id_short": 290913,
+  "published_at": "2026-04-12T07:09:10Z",
+  "repo_name": "all-restaurants-in-portland-oregon-us-sample-290913",
+  "sample_asset_name": "beamstation_290913_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/290913/beamstation_290913_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_records": 296,
+  "sample_sha256": "9faa64854fb5bbd90f29389030ccefb38bdab3694cf17a5f4216649c87e1bca4",
+  "sample_size_bytes": 977221,
+  "total_records": 2960
+}
