@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Portland, Oregon with a population of over 652k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Portland, Oregon, US",
+  "export_job_id": "969c62f4-e6a8-4490-ad61-2a207d0e19bc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 290913,
+  "location_name": "Portland",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-portland-oregon-us-sample-290913",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/290913/beamstation_290913_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 296,
+  "sample_sha256": "9faa64854fb5bbd90f29389030ccefb38bdab3694cf17a5f4216649c87e1bca4",
+  "sample_size_bytes": 977221,
+  "total_records": 2960,
+  "updated_at": "2026-04-09T14:13:59.695804+00:00"
+}
