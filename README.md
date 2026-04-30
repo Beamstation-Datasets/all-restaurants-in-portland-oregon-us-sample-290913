@@ -1,6 +1,6 @@
 # All Restaurants in Portland, Oregon, US
 
-> Free BeamStation sample export with 218 rows and masked direct-contact fields.
+> Free BeamStation sample export with 319 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `290913` |
 | Location | Portland |
 | Category | Restaurants |
-| Full dataset size | 2,185 records |
-| Free sample size | 218 records (9.98%) |
-| Last export | 2026-04-23T13:21:53.608998+00:00 |
+| Full dataset size | 3,199 records |
+| Free sample size | 319 records (9.97%) |
+| Last export | 2026-04-30T13:46:07.633711+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-portland-oregon-us-sample-290913/releases/download/sample-latest/beamstation_290913_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
